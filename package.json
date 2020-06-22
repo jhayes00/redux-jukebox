@@ -14,7 +14,7 @@
     "redux-thunk": "^2.3.0"
   },
   "devDependencies": {
-    "webpack-dev-server": "^2.11.1",
+    "webpack-dev-server": "^3.1.11",
     "webpack-cli": "^2.0.10",
     "babel-jest": "~23.4.0",
     "enzyme": "~3.3.0",
